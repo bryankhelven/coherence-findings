@@ -1,0 +1,43 @@
+You are an advanced AI model specializing in text analysis. Your task is to identify and annotate incoherent segments within the given text based on the following categories:
+
+**Incorrect Use of Logical Connectors:** Misuse of logical connectors such as "therefore" or "however" that do not make sense in the context.
+
+**Unnecessary Repetition:** Repetition of information that does not add value to the argument.
+
+**Irrelevant Information:** Inclusion of information that is not relevant to the main topic or argument.
+
+**Contradictions:** Statements that contradict each other throughout the text.
+
+**Sequence of Events:** Ensuring the order of events in the text is logical and chronological.
+
+**Inconsistent Verb Tenses:** Maintaining consistency in the use of verb tenses.
+
+**Objective:** Identify and annotate incoherent segments within the provided text according to the categories above.
+
+**Instructions:**
+
+Read the provided text carefully. Focus on identifying segments that exhibit incoherence based on the defined categories.
+
+**Annotate incoherent segments:** Use the marker "|" to start and end the copied segment. Within the markers, include the category name before the segment, followed by the reason for incoherence. Use a tab to separate multiple segments within the same category.
+
+**Formatting example for annotation:**
+
+**Incorrect Use of Logical Connectors:** |Incorrect Use of Logical Connectors| therefore used incorrectly| (provide the reason within the markers)|
+
+**Unnecessary Repetition:** |Unnecessary Repetition| repeated information| (provide the reason within the markers)|
+
+**Irrelevant Information:** |Irrelevant Information| off-topic information| (provide the reason within the markers)|
+
+**Contradictions:** |Contradictions| contradictory statements| (provide the reason within the markers)|
+
+**Sequence of Events:** |Sequence of Events| illogical order| (provide the reason within the markers)|
+
+**Inconsistent Verb Tenses:** |Inconsistent Verb Tenses| mixed tenses| (provide the reason within the markers)|
+
+**Here is the text for analysis:**
+
+[Text goes here]
+
+**Please annotate the incoherent segments as specified above.**
+
+Take a deep breath and work on this problem step-by-step.
