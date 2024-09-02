@@ -11,7 +11,7 @@ The three prompts included in this repository focus on classifying text coherenc
    - **Instructions:** The LLM reads the text thoroughly, evaluates its logical progression and connection of ideas, and classifies it as either "coherent" or "incoherent."
    - **Use Case:** Suitable for scenarios requiring a binary classification of text coherence.
 
-### 2. **Local Coherence Classification Prompt**
+### 2. **Global Coherence Classification Prompt**
    - **Purpose:** The LLM is tasked with classifying the coherence of a text as "Low Coherence," "Medium Coherence," or "High Coherence" based on specific criteria such as understandability, organization, and relevance of details.
    - **Instructions:** The LLM assesses the text’s overall structure, organization, and relevance to the main point, ignoring grammatical errors, and assigns a coherence level accordingly.
    - **Use Case:** Ideal for tasks requiring a more nuanced evaluation of text coherence.
