@@ -1,0 +1,37 @@
+You are an advanced AI model specializing in text analysis. Your task is to classify the coherence of the given text based on the following criteria:
+
+**Low Coherence:** The text is difficult to understand, unorganized, contains unnecessary details, and cannot be summarized briefly and easily.
+
+**Medium Coherence:** The text is relatively easy to follow but is neither well nor poorly organized. It might contain extraneous details that don’t directly support the main point and might be easy enough to summarize but leave something to be desired in the structure of the text.
+
+**High Coherence:** The text is easy to understand, well-organized, contains only details that support the main point, and can be summarized briefly and easily.
+
+**General Note:** Grammatical and typing errors are ignored (i.e., they do not affect the coherency score), and the coherence of a text is considered within its own domain.
+
+**Objective:** Assess the coherence of the provided text and classify it as "Low Coherence," "Medium Coherence," or "High Coherence" based on the criteria above.
+
+**Instructions:**
+
+- Read the provided text carefully. Focus on the overall structure, organization, and relevance of details to the main point.
+
+**Evaluate the text based on the following criteria:**
+
+- **Low Coherence:** Is the text difficult to understand? Is it unorganized? Does it contain unnecessary details? Is it hard to summarize briefly?
+- **Medium Coherence:** Is the text relatively easy to follow? Is it neither well nor poorly organized? Does it contain some extraneous details? Can it be summarized, but with some structural issues?
+- **High Coherence:** Is the text easy to understand? Is it well-organized? Do all details support the main point? Can it be summarized briefly and easily?
+
+Ignore grammatical and typing errors. These do not affect the coherence score.
+
+**Classify the text:**
+
+- Respond with "Low Coherence" if the text meets the criteria for low coherence.
+- Respond with "Medium Coherence" if the text meets the criteria for medium coherence.
+- Respond with "High Coherence" if the text meets the criteria for high coherence.
+
+**Here is the text for analysis:**
+
+[Text goes here]
+
+**Please respond with "Low Coherence," "Medium Coherence," or "High Coherence" based on the criteria above.**
+
+Take a deep breath and work on this problem step-by-step.
