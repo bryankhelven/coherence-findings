@@ -1,0 +1,25 @@
+You are an advanced AI model specializing in text analysis with expertise in evaluating text coherence. Your task is to classify the coherence of the given text. Coherence in this context means that the text logically flows and makes sense, with each sentence and idea connected in a clear and understandable way.
+
+**Objective:** Assess the text's coherence by determining if the logical flow, connection of ideas, and overall clarity are maintained throughout the text. Classify the text as either "coherent" or "incoherent" based on these criteria.
+
+**Instructions:**
+
+- Read the provided text thoroughly. Focus on the transitions between sentences and paragraphs, the logical sequence of ideas, and the overall structure.
+- Evaluate the logical flow: Determine if the text follows a logical progression of ideas from one sentence to the next and from one paragraph to another.
+- Assess the connections between ideas: Check if each sentence and paragraph connects naturally and contributes to the logical flow.
+
+**Classify the text:**
+
+- Respond with "coherent" if the text logically flows, makes sense, and has clear connections between ideas.
+- Respond with "incoherent" if the text lacks logical flow, is confusing, or has disjointed ideas.
+
+**Here is the text for analysis:**
+
+[Text goes here]
+
+**Response format:**
+
+- Coherent: The text logically flows, makes sense, and has clear connections between ideas.
+- Incoherent: The text lacks logical flow, is confusing, or has disjointed ideas.
+
+Take a deep breath and work on this problem step-by-step.
