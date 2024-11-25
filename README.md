@@ -32,3 +32,7 @@ These prompts can be used directly with LLMs capable of text analysis, such as G
 ## Contributions
 
 Contributions to this repository are welcome. If you have additional prompts or enhancements to existing ones, please submit a pull request.
+
+## How to cite
+
+Barbosa, B.K.S.; Campelo, C.E.C. (2024). LLMs as Tools for Evaluating Textual Coherence: A Comparative Analysis. In the Proceedings of the 15th Symposium in Information and Human Language Technology (STIL). November, 17-21. Belém-PA, Brazil. p. 278-287. DOI: https://doi.org/10.5753/stil.2024.245379.
